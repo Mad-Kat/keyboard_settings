@@ -2,7 +2,7 @@
 
 ## Windows
 
-### Instal
+### Installation
 
 - Download QMQ MSYS
 - Run `qmk compile`
